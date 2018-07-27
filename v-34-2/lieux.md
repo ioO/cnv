@@ -22,7 +22,8 @@ description: Les lieux, leurs adresses et pourquoi on les a choisi
 - **Médiathèque Emile Zola** : 218 Boulevard de l'Aéroport international, 34000 Montpellier (grands espaces, petite cafette, lieu atypique et un peu impressionnant)
 - **Les Halles Jacques Coeur** : 515 Boulevard d'Antigone, 34000 Montpellier (pleins de petits trucs à grignotter type marché "fixe")
 - **Bar du Marché** : place des Beaux Arts (ambiance conviviale, gens sympathiques, chouettes tapas (camembert rôti délicieux), pas trop cher, bières bios et locales)
-- **Bar à photos** : 29 rue Lakanal, 34000 Montpellier (bar associatif sympathique, atypique, expos photos, ATTENTION : ouvert du lundi au vendredi de 14h00 à 18h00) 
+- **Bar à photos** : 29 rue Lakanal, 34000 Montpellier (bar associatif sympathique, atypique, expos photos, ATTENTION : ouvert du lundi au vendredi de 14h00 à 18h00)
+- **Le Jardin des plantes** : Boulevard Henri IV, 34000 Montpellier, Ouvert de midi à 20h.
 
 
 
